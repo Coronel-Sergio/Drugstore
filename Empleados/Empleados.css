@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background: #0F2027;  
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
+
+  }
+  
+  header {
+    background: #0F2027;  
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
+    padding: 15px;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .navbar-nav {
+    display: flex;
+  }
+  
+  .nav-link {
+    margin: 0 10px;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  form {
+    text-align: center;
+  }
